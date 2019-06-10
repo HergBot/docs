@@ -1,2 +1,2 @@
-# Docs
-Common documentation for all HergBot Projects.
+# docs
+Common documentation used for all HergBot projects.
